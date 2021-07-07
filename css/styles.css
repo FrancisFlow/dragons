@@ -4,9 +4,12 @@ h1 {
   text-align: center;
 }
 .john {
-  padding: 100px, 50px;
-  opacity: 75%;
+  padding: 100px 50px;
+  opacity: 0.95;
 }
 .bink {
   color:pink;
+}
+body {
+  background-color: skyblue;
 }
